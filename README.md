@@ -307,26 +307,29 @@ MAVEN-FUZZY-FACTORY-DATA-ANALYSIS/
 ├── 📄 PROJECT_REPORT.pdf
 └── README.md
 
-Note: The Power BI .pbix file is a binary dashboard file and is
-not rendered directly inside GitHub's code viewer. GitHub LFS can be
-used when the file exceeds GitHub's standard browser-upload limit.
-
 👤 Author
 
 Taru Sharma
 
-BCA -- Data Science
-Panipat Institute of Engineering & Technology (PIET)
+🔗 GitHub: https://github.com/taruattri0014
 
-🔗 GitHub: taruattri0014
-
-📧 Contact: Add your professional email address here
+📧 Contact: taruattri14@gmail.com
 
 ⭐ Project Highlights
 
 End-to-End Analytics • Data Cleaning • SQL • Python • Power BI •
 Business Intelligence • Data Visualization
 
-📌 Project Status
+DASHBORADS:
+<img width="1248" height="730" alt="Screenshot 2026-08-29 192227" src="https://github.com/user-attachments/assets/18952e8b-419a-4806-9758-6c5784b492d8" />
 
-Completed --- Portfolio / Academic Data Analytics Project
+<img width="1235" height="728" alt="Screenshot 2026-08-29 192306" src="https://github.com/user-attachments/assets/67c1f073-92da-4a32-b8fb-22a934772627" />
+
+<img width="1235" height="728" alt="Screenshot 2026-08-29 192306" src="https://github.com/user-attachments/assets/7525a4a4-a5ea-4c26-92b8-ffafea0098a3" />
+
+<img width="1235" height="728" alt="Screenshot 2026-08-29 192306 - Copy (2)" src="https://github.com/user-attachments/assets/e190e9eb-c29c-44aa-8d04-eca66e529219" />
+
+
+
+
+
