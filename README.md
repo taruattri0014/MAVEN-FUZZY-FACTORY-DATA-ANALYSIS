@@ -323,11 +323,13 @@ Business Intelligence • Data Visualization
 DASHBORADS:
 <img width="1248" height="730" alt="Screenshot 2026-08-29 192227" src="https://github.com/user-attachments/assets/18952e8b-419a-4806-9758-6c5784b492d8" />
 
-<img width="1235" height="728" alt="Screenshot 2026-08-29 192306" src="https://github.com/user-attachments/assets/67c1f073-92da-4a32-b8fb-22a934772627" />
+<img width="1235" height="728" alt="Screenshot 2026-08-29 192306 - Copy (2)" src="https://github.com/user-attachments/assets/c9ff2599-7f19-4bfd-bff1-3650ced799a0" />
 
-<img width="1235" height="728" alt="Screenshot 2026-08-29 192306" src="https://github.com/user-attachments/assets/7525a4a4-a5ea-4c26-92b8-ffafea0098a3" />
+<img width="1212" height="742" alt="Screenshot 2026-08-29 192317" src="https://github.com/user-attachments/assets/ea76406b-ca24-42d5-bc09-e3004b7bc5eb" />
 
-<img width="1235" height="728" alt="Screenshot 2026-08-29 192306 - Copy (2)" src="https://github.com/user-attachments/assets/e190e9eb-c29c-44aa-8d04-eca66e529219" />
+<img width="1246" height="722" alt="Screenshot 2026-08-29 192333" src="https://github.com/user-attachments/assets/8cc987ab-6c01-4346-ba0f-6c2805f03aeb" />
+
+
 
 
 
