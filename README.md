@@ -321,13 +321,21 @@ End-to-End Analytics • Data Cleaning • SQL • Python • Power BI •
 Business Intelligence • Data Visualization
 
 DASHBORADS:
-<img width="1248" height="730" alt="Screenshot 2026-08-29 192227" src="https://github.com/user-attachments/assets/18952e8b-419a-4806-9758-6c5784b492d8" />
+HOME PAGE
+<img width="1203" height="673" alt="Screenshot 2026-08-29 192227" src="https://github.com/user-attachments/assets/db760dbb-3ac3-4bf1-828f-6f69be76b660" />
 
-<img width="1235" height="728" alt="Screenshot 2026-08-29 192306 - Copy (2)" src="https://github.com/user-attachments/assets/c9ff2599-7f19-4bfd-bff1-3650ced799a0" />
+OVERVIEW PAGE
+<img width="1202" height="679" alt="Screenshot 2026-08-29 192306 - Copy (2)" src="https://github.com/user-attachments/assets/bcf66a43-f07d-42a6-86d5-5e238bd6edb3" />
 
-<img width="1212" height="742" alt="Screenshot 2026-08-29 192317" src="https://github.com/user-attachments/assets/ea76406b-ca24-42d5-bc09-e3004b7bc5eb" />
+SALES AND MARKETING PERFORMANCE PAGE
+<img width="1204" height="673" alt="Screenshot 2026-08-14 205604" src="https://github.com/user-attachments/assets/90e42c58-d829-4344-8475-e93a53977999" />
 
-<img width="1246" height="722" alt="Screenshot 2026-08-29 192333" src="https://github.com/user-attachments/assets/8cc987ab-6c01-4346-ba0f-6c2805f03aeb" />
+GEOGRAPHIC INSIGHTS PAGE
+<img width="1203" height="672" alt="Screenshot 2026-08-29 192333" src="https://github.com/user-attachments/assets/6e283eb5-d48d-43a8-aa1d-1c5c7d599184" />
+
+
+
+
 
 
 
